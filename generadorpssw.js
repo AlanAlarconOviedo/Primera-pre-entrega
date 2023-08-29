@@ -28,4 +28,6 @@ while (path.toLowerCase() === "new") {
     path = prompt("¿Quieres hacer una nueva contraseña o finalizar? Escribe 'new' para una nueva contraseña o 'end' para finalizar el generador");
 }
 
-alert("¡Gracias por usar nuestro")
+alert("¡Gracias por usar nuestro generador de contraseñas")
+
+
